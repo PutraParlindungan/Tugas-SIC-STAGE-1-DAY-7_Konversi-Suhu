@@ -1,3 +1,10 @@
+'''
+Nama : Putra Parlindungan
+Asal Sekolah : Universitas Gunadarma 
+Team : DigitalDreamers
+Batch/Stage/Day : 7/1/7 
+'''
+
 from utils import konversi_suhu
 
 def main():
@@ -28,6 +35,7 @@ def main():
     hasil_konversi = konversi_suhu(nilai_input, dari_input, ke_input)
 
     print(f"Hasil: {hasil_konversi}")
+
 
 
 main()
